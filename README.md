@@ -1,12 +1,6 @@
 # test
 The first git test
 
-[我的csdn](http://blog.csdn.net/guodongxiaren)
+[我的csdn](http://blog.csdn.net/u010164190?viewmode=contents)
 
-
-
-
-
-
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
 
